@@ -1,0 +1,1 @@
+# This is collection of random terraform scripts I created while preparing for AWS certification.
